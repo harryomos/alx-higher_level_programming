@@ -13,4 +13,4 @@ if __name__ == '__main__':
     r = db.store_result()
     t = r.fetch_row(maxrows=0)
     for i in t:
-        print(i))
+        print(i)
